@@ -47,7 +47,7 @@ git clone https://github.com/hustvl/MapTR.git
 **g. Install mmdet3d and GKT**
 ```shell
 cd /path/to/MapTR/mmdetection3d
-python setup.py develop
+python setup.py develop # pip install mmdet3d==0.15.0
 
 cd /path/to/MapTR/projects/mmdet3d_plugin/maptr/modules/ops/geometric_kernel_attn
 python setup.py build install
