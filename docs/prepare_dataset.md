@@ -1,4 +1,5 @@
-
+DIRECTORY: /data/ushelf-mf-pba/projects/AIU/lane_markings/luca/MapTR
+DATA: /data/ushelf-mf-pba/data/public_datasets/lane_marking
 
 ## NuScenes
 Download nuScenes V1.0 full dataset data  and CAN bus expansion data [HERE](https://www.nuscenes.org/download). Prepare nuscenes data by running
