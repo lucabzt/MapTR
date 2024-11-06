@@ -19,6 +19,7 @@ pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f ht
 **c. Install gcc>=5 in conda env (optional).**
 ```shell
 conda install -c omgarcia gcc-5 # gcc-6.2
+# conda install "gxx==9.4" "gcc==9.4"
 ```
 
 **c. Install mmcv-full.**
