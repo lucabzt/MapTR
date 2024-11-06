@@ -6,7 +6,7 @@
 
 Train MapTR with 8 GPUs 
 ```
-./tools/dist_train.sh ./projects/configs/maptr/maptr_tiny_r50_24e.py 8
+bash ./tools/dist_train.sh ./projects/configs/maptr/maptr_tiny_r50_24e.py 1
 ```
 
 Eval MapTR with 8 GPUs
